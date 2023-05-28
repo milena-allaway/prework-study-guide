@@ -1,5 +1,3 @@
-# prework-study-guide
-Study guide for Bootcamp pre-work.
 # Prework Study Guide Webpage
 
 ## Description
